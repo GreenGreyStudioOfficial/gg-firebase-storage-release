@@ -1,0 +1,15 @@
+{
+  "name": "com.greengreysoftworks.firebasestoragesdk",
+  "displayName": "GGFirebaseStorage",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Package for easy save|load data process with firebase",
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Save/Load Sample",
+      "description": "Contains save/load usage example",
+      "path": "Samples~/SaveLoadSample"
+    }
+  ]
+}
